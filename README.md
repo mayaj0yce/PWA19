@@ -5,7 +5,7 @@ This allows a user to make notes or code snippets to view later, with or without
 
 ## Links
 [HerokuLink]{}
-[GitHubLink]{}
+[GitHubLink]{git@github.com:mayaj0yce/PWA19.git}
 
 ## To Deploy
 `npm run start`
